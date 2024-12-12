@@ -16,7 +16,7 @@ root
 │
 ├── data/                # Directory containing the processed market data
 │   ├── data/            # Raw market data
-│   ├── ...              # Processing methods using binance APO
+│   ├── ...              # Processing methods using binance API
 │
 ├── src/                # Source code for the implementation
 │   ├── rl/             # Reinforcement Learning components
@@ -28,7 +28,7 @@ root
 │      ├── train_ddpg.py # main training loop for agen 
 │  
 │
-├── requirements.txt    # Python dependencies
+ ── requirements.txt    # Python dependencies
 
 ```
 
